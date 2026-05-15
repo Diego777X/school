@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb83536c.css",
-    "main.js": "/static/js/main.c5cf6e58.js",
+    "main.css": "/static/css/main.283a5cfa.css",
+    "main.js": "/static/js/main.dea49003.js",
     "static/js/453.3992c8da.chunk.js": "/static/js/453.3992c8da.chunk.js",
+    "static/media/Aside.png": "/static/media/Aside.d3c42eebd3981827a64e.png",
     "static/media/Brebkey.jpeg": "/static/media/Brebkey.2aebb8a23611db38eab9.jpeg",
     "static/media/botonTarjetas.png": "/static/media/botonTarjetas.1bf4f1f1583c05e0b2b7.png",
     "static/media/subLoader.gif": "/static/media/subLoader.a4ef94e7c6a0097e04b7.gif",
@@ -11,6 +12,7 @@
     "static/media/loaderN.gif": "/static/media/loaderN.da4a95ea3cdd901d7a02.gif",
     "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.9ccd5e1b1dbea150336d.ttf",
     "static/media/imagen-espera.jpg": "/static/media/imagen-espera.42a14238ffd176883dac.jpg",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.0fcd45fbfc419c42c8b9.ttf",
     "static/media/bannerMain.png": "/static/media/bannerMain.1cba8b8ba43acb5f1666.png",
     "static/media/loaderdavi.gif": "/static/media/loaderdavi.b6e03f3a11254db308de.gif",
     "static/media/Davivienda-Regular.ttf": "/static/media/Davivienda-Regular.817c83e27d30055c4087.ttf",
@@ -29,6 +31,8 @@
     "static/media/juridica.svg": "/static/media/juridica.16e4f5c63e00e2e15f70225b10b1919e.svg",
     "static/media/logo.svg": "/static/media/logo.f19537aadced7543ea1c.svg",
     "static/media/logoFloat.png": "/static/media/logoFloat.654bd3134c1cccf44436.png",
+    "static/media/Vigilado.svg": "/static/media/Vigilado.0760858c7b1ad2f6a07f805d7994c13d.svg",
+    "static/media/BB.svg": "/static/media/BB.69173cdc99133312ef42204330de4c36.svg",
     "static/media/BackgroundMain.svg": "/static/media/BackgroundMain.c9a2457e0745f3150ee0.svg",
     "static/media/footerD.svg": "/static/media/footerD.94d724451e817ad29c5e67929a9e6afd.svg",
     "static/media/bbg.webp": "/static/media/bbg.cece4cad8026c25324f0.webp",
@@ -37,6 +41,7 @@
     "static/media/HeaderLogo.svg": "/static/media/HeaderLogo.e9678f112a702758542f8f98283cea47.svg",
     "static/media/nequilogo.webp": "/static/media/nequilogo.e5db9a7ff5cdea3b5aa7.webp",
     "static/media/bannerY.svg": "/static/media/bannerY.dd847a7e1d77c76afbf8d1f5dd62a04f.svg",
+    "static/media/Aval.svg": "/static/media/Aval.6f326c71a924b4e528088e89a4a50929.svg",
     "static/media/campana.svg": "/static/media/campana.e47bfda7ba396e737c35984a88c19460.svg",
     "static/media/nequi-logo.svg": "/static/media/nequi-logo.0ab5208078e1ed751c7a7d39edfbbc5a.svg",
     "static/media/conta.svg": "/static/media/conta.7bbe818a9d53389c7f2c0293acf4366d.svg",
@@ -49,12 +54,12 @@
     "static/media/Arrow.svg": "/static/media/Arrow.0dc234203984d356c34897837c59674a.svg",
     "static/media/Completed.svg": "/static/media/Completed.bb992bcf6803fbaf20a5a4c7770750d2.svg",
     "static/media/loaderBC.svg": "/static/media/loaderBC.3dc97d995f8c308c7c7dfb8b7a39a078.svg",
-    "main.eb83536c.css.map": "/static/css/main.eb83536c.css.map",
-    "main.c5cf6e58.js.map": "/static/js/main.c5cf6e58.js.map",
+    "main.283a5cfa.css.map": "/static/css/main.283a5cfa.css.map",
+    "main.dea49003.js.map": "/static/js/main.dea49003.js.map",
     "453.3992c8da.chunk.js.map": "/static/js/453.3992c8da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb83536c.css",
-    "static/js/main.c5cf6e58.js"
+    "static/css/main.283a5cfa.css",
+    "static/js/main.dea49003.js"
   ]
 }
